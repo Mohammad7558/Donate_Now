@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+#hero-section{
+    width: 100%;
+    background-image: url(donate-today-main/images/download2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 85vh;
+}
+.container{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    padding-top: 130px;
+}
+.container h1{
+    font-size: 40px;
+    color: #fff;
+    margin: 0;
+}
+.container p{
+    color: #fff;
+    line-height: 28px;
+    margin-bottom: 5%;
+}
+.Donate-Now-button{
+    color: #fff;
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px 30px;
+    border-radius: 5px;
+}
