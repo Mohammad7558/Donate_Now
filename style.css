@@ -19,7 +19,7 @@ body{
     padding-top: 130px;
 }
 .container h1{
-    font-size: 40px;
+    font-size: 45px;
     color: #fff;
     margin: 0;
 }
@@ -34,4 +34,43 @@ body{
     background-color: tomato;
     padding: 15px 30px;
     border-radius: 5px;
+}
+
+.flexible h1{
+    font-size: 30px;
+    color: #000;
+}
+.flexible p{
+    color: #000;
+    margin-bottom: 15px;
+}
+.Donate-price-list{
+    display: flex;
+    margin-top: 30px;
+}
+.Donate-price-list div{
+    background-color: lightgray;
+    width: 150px;
+    height: 90px;
+    margin: 0 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+}
+#selected-item{
+    border: 2px solid #ff6347;
+    background-color: #FFEEEE;
+}
+input{
+    border: none;
+    border: 1px solid #00000034;
+    border-radius: 50px;
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin: 5% 0 5% 0; 
+    padding: 2% 0;
+}
+::placeholder{
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
 }
