@@ -184,11 +184,9 @@ footer{
     text-align: center;
 }
 .footer-container h1{
-    color: #fff;
-}
-.footer-container .colofull-text{
     color: tomato;
 }
+
 .footer-container p{
     margin: 0;
     color: #fff;
