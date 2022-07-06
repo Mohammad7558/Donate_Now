@@ -4,7 +4,7 @@ body{
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
 }
-#banner-section{
+#top-banner{
     width: 100%;
     background-image: url(donate-today-main/images/download2.png);
     background-repeat: no-repeat;
